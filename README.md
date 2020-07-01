@@ -8,4 +8,4 @@ Three Eclipse projects that come together to implement a simple Spring Cloud env
 * H2 Database
 
 ## Source Code Links:
-* [City Service] (https://github.com/andrewStich/eureka-City-Country/tree/master/eurekaCityService/src/main/java/com/cognixia)
+* [City Service](https://github.com/andrewStich/eureka-City-Country/tree/master/eurekaCityService/src/main/java/com/cognixia)
