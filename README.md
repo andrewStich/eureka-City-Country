@@ -1,4 +1,4 @@
-# eureka-City-Country
+# Eureka-City-Country
 Three Eclipse projects that come together to implement a simple Spring Cloud environment where a user can access information about countries and cities.
 
 ## Technologies Used:
